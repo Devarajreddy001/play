@@ -1,0 +1,2 @@
+12
+locator('table tr').getByText('12').nth(1)

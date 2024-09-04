@@ -1,0 +1,21 @@
+99
+ 	
+
+Hi there,
+
+Click on the button matching the number in the authentication screen to enter AdmitRight.
+
+99	03	65
+
+Or sign in with the appropriate link below:
+
+[99]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDAhpHcx6verxKKFFYQPRNSbH_6.end-2igDAjSlISPGJLQ8yfIPiaxe5DA&t=a286fbb4241844d64fa3ef5b04e481bb07126d2d022a61067917f85712a0d9bd
+
+[03]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDAhpHcx6verxKKFFYQPRNSbH_6.end-2igDAjSlISPGJLQ8yfIPiaxe5DA&t=d5bd6e5157d55c8b7557f99394e124c1eb768499d08846cd6f6c3986d1b55d2a
+
+[65]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDAhpHcx6verxKKFFYQPRNSbH_6.end-2igDAjSlISPGJLQ8yfIPiaxe5DA&t=ddd317de592d7f7acd20205745be85ed6fd325288f44c76daa696afa327eaede
+
+The links above will expire in 3 minutes.
+
+Powered by Descope.
+ 

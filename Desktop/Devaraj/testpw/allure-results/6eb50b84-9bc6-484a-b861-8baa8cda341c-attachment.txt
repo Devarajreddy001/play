@@ -1,0 +1,21 @@
+60
+ 	
+
+Hi there,
+
+Click on the button matching the number in the authentication screen to enter AdmitRight.
+
+60	63	69
+
+Or sign in with the appropriate link below:
+
+[60]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igCkcDYPWVT7bo8CLfzG47AxJI_6.end-2igCkbcaXMKrBecdmi2n3BzN8fp&t=455d4bd688f812f60fc949f81370c33b0878800c090ebda282fc9b4d80ed0fa0
+
+[63]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igCkcDYPWVT7bo8CLfzG47AxJI_6.end-2igCkbcaXMKrBecdmi2n3BzN8fp&t=3f23cba1a62a0f3d33136099d6424a121e9e6dc7e9beb80436d6992ab1523102
+
+[69]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igCkcDYPWVT7bo8CLfzG47AxJI_6.end-2igCkbcaXMKrBecdmi2n3BzN8fp&t=15bb65241cbb1281c26312263d74a8695f4e36c1f9b82e9b9947afba5b68dbf1
+
+The links above will expire in 3 minutes.
+
+Powered by Descope.
+ 

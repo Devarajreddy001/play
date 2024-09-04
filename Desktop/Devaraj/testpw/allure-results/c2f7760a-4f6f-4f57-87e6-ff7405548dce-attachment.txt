@@ -1,0 +1,6 @@
+Captured Session ID: Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 1874,
+  [Symbol(trigger_async_id_symbol)]: 0,
+  [Symbol(kResourceStore)]: undefined
+}

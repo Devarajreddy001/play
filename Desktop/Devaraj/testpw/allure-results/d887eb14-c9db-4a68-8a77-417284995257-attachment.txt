@@ -1,0 +1,21 @@
+01
+ 	
+
+Hi there,
+
+Click on the button matching the number in the authentication screen to enter AdmitRight.
+
+01	77	32
+
+Or sign in with the appropriate link below:
+
+[01]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDJ3fnwJHtkkjjjDbXEPe71ML_6.end-2igDJ4OzXH8cxTOwk0NL6UWsSYA&t=9ccfc6e69786677caeaf273fdbf2f214db102dcb50c199b9c0eff7a55e155516
+
+[77]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDJ3fnwJHtkkjjjDbXEPe71ML_6.end-2igDJ4OzXH8cxTOwk0NL6UWsSYA&t=53ce3441dde60189b7455d9aa54ff2dc2320e22ccaf5f960df99db282ac81186
+
+[32]: https://admitright.gradright.com/auth/signin?descope-login-flow=sign-in%7C%23%7C2igDJ3fnwJHtkkjjjDbXEPe71ML_6.end-2igDJ4OzXH8cxTOwk0NL6UWsSYA&t=59e9bd5ad88062f4aa90fc96f62518e3fe194bd383ac14f0399cf1870b1dcf67
+
+The links above will expire in 3 minutes.
+
+Powered by Descope.
+ 

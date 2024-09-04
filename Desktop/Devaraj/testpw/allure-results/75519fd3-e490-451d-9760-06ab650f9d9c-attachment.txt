@@ -1,0 +1,333 @@
+[
+  {
+    name: 'taboola_session_id',
+    value: 'v2_cdfc93773c5412c30d0c6e6678918600_a0fd3253-5afe-4fbc-a827-b19bfd24d8b3-tuctd8e5734_1721029044_1721029044_CNawjgYQkIRcGKrSzKqLMiABKAEwZziY0QpAhJeABFD___________8BWABgAGjhs9iJ3_7it4YBcAE',
+    domain: '.taboola.com',
+    path: '/taboolaaccount-gradgradrightcom/',
+    expires: -1,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'X-AB',
+    value: '36dd05d2bc294b9fb123423652b78758',
+    domain: 'sc-static.net',
+    path: '/scevent.min.js',
+    expires: 1721115444.671418,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_fbp',
+    value: 'fb.1.1721029043951.419884524996769624',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1728805044,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_gcl_au',
+    value: '1.1.297639000.1721029044',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1728805044,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '__cf_bm',
+    value: 'jDqs_ejI.0UN6geEIJmv3a8fEK.dh2XSFdH78.9MSgs-1721029044-1.0.1.1-aL4SucYVo1bcJ5Rqla8e7Fqz_9ki_o3.ULiNaW3GwbregHMdxpW2tyKdOsuO_Nf.zMxgYcrTYiIYORbn8Kik0g',
+    domain: '.js.ubembed.com',
+    path: '/',
+    expires: 1721030844.198793,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_rdt_uuid',
+    value: '1721029044501.3737272c-9b1b-43b2-b67c-fd171bf1fbf4',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1728805044,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'Strict'
+  },
+  {
+    name: '__spdt',
+    value: '1361a144d71d4b8c8cac98cfc3dac977',
+    domain: 'fund.gradright.com',
+    path: '/',
+    expires: 1752565044,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Strict'
+  },
+  {
+    name: '_gid',
+    value: 'GA1.2.1377404848.1721029045',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1721115444,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_gat_gtag_UA_143705288_1',
+    value: '1',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1721029104,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_gat_UA-202999130-2',
+    value: '1',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1721029104,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: 'CLID',
+    value: 'e305732fa7104ec1adb0643a20ee6394.20240715.20250715',
+    domain: 'www.clarity.ms',
+    path: '/',
+    expires: 1752565044.544176,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_ga_EKDDZ8VD3W',
+    value: 'GS1.1.1721029044.1.0.1721029044.60.0.1201347625',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755589044.565583,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: 'mp_08c871afb317875fbe479d2e7292d37b_mixpanel',
+    value: '%7B%22distinct_id%22%3A%20%22%24device%3A190b553283a2fa-02a376ecb64205-1a525637-e1000-190b553283a2fa%22%2C%22%24device_id%22%3A%20%22190b553283a2fa-02a376ecb64205-1a525637-e1000-190b553283a2fa%22%2C%22loggedIn%22%3A%20false%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%22%24os%22%3A%20%22Mac%20OS%20X%22%2C%22%24browser%22%3A%20%22Chrome%22%2C%22%24browser_version%22%3A%20125%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%7D',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1752565044,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_ga',
+    value: 'GA1.1.659302419.1721029044',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755589044.903741,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: 't_gid',
+    value: 'a0fd3253-5afe-4fbc-a827-b19bfd24d8b3-tuctd8e5734',
+    domain: '.taboola.com',
+    path: '/',
+    expires: 1752565044.645021,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 't_pt_gid',
+    value: 'a0fd3253-5afe-4fbc-a827-b19bfd24d8b3-tuctd8e5734',
+    domain: '.taboola.com',
+    path: '/',
+    expires: 1752565044.645051,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'receive-cookie-deprecation',
+    value: '1',
+    domain: '.taboola.com',
+    path: '/',
+    expires: 1752565044.645074,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_ga_EYTYT4HGR8',
+    value: 'GS1.1.1721029044.1.1.1721029044.60.0.0',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755589044.712839,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_scid',
+    value: '7a5f44f8-125e-4b2c-94bc-7a841640db4d',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755215742,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_scid_r',
+    value: '7a5f44f8-125e-4b2c-94bc-7a841640db4d',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755215742,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: 'li_sugr',
+    value: 'a157db77-f502-4088-9941-8656a91162fb',
+    domain: '.linkedin.com',
+    path: '/',
+    expires: 1728805045.455745,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'bcookie',
+    value: '"v=2&768fe2a0-0bb5-4737-86da-48027bcf212b"',
+    domain: '.linkedin.com',
+    path: '/',
+    expires: 1752565045.455795,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'lidc',
+    value: '"b=OGST06:s=O:r=O:a=O:p=O:g=3022:u=1:x=1:i=1721029044:t=1721115444:v=2:sig=AQEoagNlTUMqoX2jU7gvAlah2q_jzvGy"',
+    domain: '.linkedin.com',
+    path: '/',
+    expires: 1721115444.77065,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_clck',
+    value: '1gjidoj%7C2%7Cfnh%7C0%7C1657',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1752565044,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: '_ga_4ZGZHYE8BR',
+    value: 'GS1.1.1721029044.1.0.1721029044.0.0.0',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755589044.9035,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  },
+  {
+    name: 'UserMatchHistory',
+    value: 'AQJdPa_h9GN-FgAAAZC1UyrPwJoW2xVfSfwNeP53qHiQWMnBdX9hA5mZY9C_IQWeZQWE41xEhIoeKg',
+    domain: '.linkedin.com',
+    path: '/',
+    expires: 1723621044.99938,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'AnalyticsSyncHistory',
+    value: 'AQLvgvXcmBPozgAAAZC1UyrPjBlDsTmqj4LjzKRhzmxxlAsPxs-PaWGlRkqh1YGnDjXAkUaHKDBKwDXE1rWWZw',
+    domain: '.linkedin.com',
+    path: '/',
+    expires: 1723621044.999393,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'bscookie',
+    value: '"v=1&20240715073725f471c978-edf8-4f4d-83cd-c5596f43e86fAQHbKIt-Iax_fHSr3RKbcPqPR7T9ZWyA"',
+    domain: '.www.linkedin.com',
+    path: '/',
+    expires: 1752565046.234555,
+    httpOnly: true,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'sc_at',
+    value: 'v2|H4sIAAAAAAAAAE3GuQ0AIQwEwIos7fr8yJRzYKqgeFImmt7UmoSsmp9YtMmv0VIRnvRY2fvQMJhKaMH8PMUFJClh60AAAAA=',
+    domain: '.snapchat.com',
+    path: '/',
+    expires: 1754725045.944599,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'TapAd_TS',
+    value: '1721029045716',
+    domain: '.tapad.com',
+    path: '/',
+    expires: 1726213045.820833,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'TapAd_DID',
+    value: '3f8bcaf5-c359-428f-930f-7be30163fcb1',
+    domain: '.tapad.com',
+    path: '/',
+    expires: 1726213045.820991,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: 'TapAd_3WAY_SYNCS',
+    value: '',
+    domain: '.tapad.com',
+    path: '/',
+    expires: 1726213045.821065,
+    httpOnly: false,
+    secure: true,
+    sameSite: 'None'
+  },
+  {
+    name: '_sctr',
+    value: '1%7C1720981800000',
+    domain: '.gradright.com',
+    path: '/',
+    expires: 1755215743,
+    httpOnly: false,
+    secure: false,
+    sameSite: 'Lax'
+  }
+]
+172102904445061893aa5-920b-4bb5-8afa-716bc370e4bc

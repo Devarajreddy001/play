@@ -1,0 +1,2 @@
+95
+This page is displayed in an iframe
